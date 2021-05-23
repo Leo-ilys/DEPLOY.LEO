@@ -39,18 +39,13 @@
       "description": " توكن البوت - يجب وضع البوت انلاين مود",
       "value": ""
     },
-    "PMPERMIT_PIC": {
-      "description": "صوره ",
-      "value": "",
-      "required": false
-    },
     "MAX_FLOOD_IN_P_M_s": {
       "description": "عدد الرسائل ",
-      "value": "5",
+      "value": "500",
       "required": false
     },
     "PRIVATE_GROUP_ID": {
-      "description": "الكروب ",
+      "description": "ايدي الكروب ",
       "value": "",
       "required": false
     },
@@ -66,17 +61,6 @@
     },
     "OWNER_ID": {
       "description": "ايدي حسابك",
-      "value": "",
-      "required": false
-    },
-
-    "HEROKU_API_KEY": {
-      "description": "هيروكو ابي كي من الاعدادات عن طريق الرابط https://dashboard.heroku.com/account",
-      "value": "",
-      "required": false
-    },
-    "HEROKU_APP_NAME": {
-      "description": "اسم التطبيق ",
       "value": "",
       "required": false
     },
